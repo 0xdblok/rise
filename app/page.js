@@ -92,7 +92,7 @@ export default function Home() {
         </div>
         <div class="self-stretch mt-9 text-base leading-7 text-white max-md:max-w-full">
           The RISE Token represents a revolutionary approach to venture capital
-          operations within the Hyper liquid chain ecosystem. As a specialized
+          operations within the Base chain ecosystem. As a specialized
           investment vehicle, RISE focuses exclusively on nurturing and
           supporting early-stage blockchain projects, providing them with not
           just capital, but comprehensive growth support and protection against
@@ -124,19 +124,18 @@ export default function Home() {
           </p>
           <p className="pt-6">
             The technical infrastructure of RISE leverages the full capabilities
-            of the Hyper liquid chain, ensuring fast transaction processing and
-            minimal fees. The smart contract architecture incorporates advanced
-            security features including automated audit trails, real-time
-            transaction monitoring, and emergency circuit breakers that can
-            pause trading in case of detected anomalies. Regular security audits
-            and a generous bug bounty program further reinforce the platform's
-            commitment to security. Projects receiving investment through RISE
-            gain more than just funding – they become part of a thriving
-            ecosystem that provides technical support, mentorship, and
-            networking opportunities. The platform's cross-chain compatibility
-            ensures that projects can seamlessly integrate with other blockchain
-            networks while maintaining their primary presence on the Hyper
-            liquid chain.
+            of the Base chain, ensuring fast transaction processing and minimal
+            fees. The smart contract architecture incorporates advanced security
+            features including automated audit trails, real-time transaction
+            monitoring, and emergency circuit breakers that can pause trading in
+            case of detected anomalies. Regular security audits and a generous
+            bug bounty program further reinforce the platform's commitment to
+            security. Projects receiving investment through RISE gain more than
+            just funding – they become part of a thriving ecosystem that
+            provides technical support, mentorship, and networking
+            opportunities. The platform's cross-chain compatibility ensures that
+            projects can seamlessly integrate with other blockchain networks
+            while maintaining their primary presence on the Hyper liquid chain.
           </p>
           <p className="pt-6">
             To maintain market stability, RISE employs a blacklist feature for
