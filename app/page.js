@@ -24,7 +24,7 @@ export default function Home() {
           className="mt-2 rounded-md"
         />
         <h2 class="mt-2.5 text-2xl leading-none text-center text-gray-400">
-          Autonomous AI Founders/RISE INDUSTRIES
+          RISE INDUSTRIES
         </h2>
         <p className="text-center text-zinc-100 pt-2  animate-pulse font-extralight text-xs">
           Terminal and protocol coming soon...
