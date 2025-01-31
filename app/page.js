@@ -9,7 +9,7 @@ export default function Home() {
           <div className="w-[1px] h-[1px] bg-white  "></div>
         </div>
         <h1 class="mt-8 text-6xl tracking-tighter leading-none text-center text-[#3f5dd3] max-md:max-w-full max-md:text-4xl">
-          Chan
+          Rise
         </h1>
 
         <p className="text-center text-zinc-200 pt-2 font-extralight text-sm">
@@ -47,13 +47,13 @@ export default function Home() {
         <div class="mt-2 text-base text-center text-gray-400">CA: TBA</div>
         <div class="flex gap-4 mt-4 max-w-full text-xs leading-none text-center text-[#3f5dd3] ">
           <p className="text-xs text-center">
-            ( launch using AI16Z SDK on Base/Sol )
+            ( launch using AI16Z SDK on Base )
           </p>
         </div>
 
         <div class="flex gap-4 mt-3 w-16">
           <div class="flex flex-col flex-1 min-h-[24px]">
-            <a href="https://x.com/chanonbase">
+            <a href="">
               {" "}
               <img
                 loading="lazy"
@@ -64,7 +64,7 @@ export default function Home() {
             </a>
           </div>
           <div class="flex flex-col flex-1 min-h-[24px]">
-            <a href="https://t.me/chansecretdoor">
+            <a href="">
               {" "}
               <img
                 loading="lazy"
@@ -91,27 +91,71 @@ export default function Home() {
           </div>
         </div>
         <div class="self-stretch mt-9 text-base leading-7 text-white max-md:max-w-full">
-          Numerous cryptocurrency initiatives have risen and fallen. Several
-          were built.
-          <br />
-          on promises, controlled by teams with excessive power, bound by human
-          <br />
-          Limitations and greed.
+          The RISE Token represents a revolutionary approach to venture capital
+          operations within the Hyper liquid chain ecosystem. As a specialized
+          investment vehicle, RISE focuses exclusively on nurturing and
+          supporting early-stage blockchain projects, providing them with not
+          just capital, but comprehensive growth support and protection against
+          market manipulation.
         </div>
-        <div class="self-start mt-9 text-base leading-7 text-white max-md:max-w-full">
-          What if we could eliminate the human element of control? What if we
-          could?
-          <br />
-          Create a system in which code is the law and community is king.
-        </div>
-        <div class="self-start mt-9 text-base leading-7 text-white max-md:max-w-full">
-          Enter the Aura. Born from the ashes of unsuccessful projects, and
-          driven by
-          <br />
-          Autonomous AI agents are protected by immutable code. A new paradigm
-          where
-          <br />
-          Artificial intelligence does more than just assist; it leads.
+
+        <div className="pt-6 text-center  px-16 text-white">
+          <p className="pt-6">
+            The token's foundation is built on three core principles:
+            sustainable growth, market integrity, and long-term partnership. To
+            combat price manipulation, RISE implements an advanced suite of
+            protective measures including time-locked liquidity pools that
+            release gradually over time, sophisticated trading pattern analysis
+            to detect and prevent wash trading, and dynamic transaction limits
+            that automatically adjust based on market conditions and trading
+            volumes. These features work in concert to create a stable,
+            manipulation-resistant trading environment that benefits genuine
+            investors and project stakeholders.
+          </p>
+
+          <p className="pt-6">
+            Token holders gain access to a comprehensive suite of benefits that
+            grow more valuable over time. Early investors receive priority
+            access to new project launches, reduced platform fees, and enhanced
+            voting rights in governance decisions. The platform also features a
+            unique staking mechanism that rewards long-term holders with
+            increasing influence over project decisions and additional
+            investment opportunities
+          </p>
+          <p className="pt-6">
+            The technical infrastructure of RISE leverages the full capabilities
+            of the Hyper liquid chain, ensuring fast transaction processing and
+            minimal fees. The smart contract architecture incorporates advanced
+            security features including automated audit trails, real-time
+            transaction monitoring, and emergency circuit breakers that can
+            pause trading in case of detected anomalies. Regular security audits
+            and a generous bug bounty program further reinforce the platform's
+            commitment to security. Projects receiving investment through RISE
+            gain more than just funding – they become part of a thriving
+            ecosystem that provides technical support, mentorship, and
+            networking opportunities. The platform's cross-chain compatibility
+            ensures that projects can seamlessly integrate with other blockchain
+            networks while maintaining their primary presence on the Hyper
+            liquid chain.
+          </p>
+          <p className="pt-6">
+            To maintain market stability, RISE employs a blacklist feature for
+            addresses engaging in suspicious trading patterns, while its dynamic
+            pricing algorithm helps prevent artificial price inflation or
+            manipulation. The treasury reserve acts as a stability mechanism,
+            with funds available for market operations when needed to maintain
+            healthy trading conditions. The governance structure of RISE
+            emphasizes community involvement while maintaining professional
+            investment standards. Token holders can participate in key decisions
+            through a voting system that weights both the quantity of tokens
+            held and the duration of holding, encouraging stable, long-term
+            investment approaches over speculative trading. Through this
+            comprehensive approach, RISE aims to revolutionize how venture
+            capital operates in the blockchain space, creating a sustainable,
+            manipulation-resistant investment ecosystem that benefits all
+            stakeholders while fostering the growth of promising blockchain
+            projects.
+          </p>
         </div>
         <div
           class="flex gap-3 self-start mt-9 text-base leading-loose"
